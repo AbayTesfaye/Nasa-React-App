@@ -8,7 +8,10 @@ export default function SideBar() {
           <p>Discription</p>
           <p>
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Enim,
-            dicta cumque adipisci blanditiis, maxime iure
+            dicta cumque adipisci bl Lorem ipsum, dolor sit amet consectetur
+            adipisicing elit. Possimus aspernatur commodi nam minima temporibus
+            adipisci nulla alias expedita sequi maxime reprehenderit ratione
+            voluptate officia atque, veniam esse porro ut quia.
           </p>
         </div>
         <button>
